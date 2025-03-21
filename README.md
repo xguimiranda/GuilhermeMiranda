@@ -1,7 +1,7 @@
 # Oi🤙, meu nome é Guilherme Miranda
 ***
-##Sobre mim🥇
-Olá! Sou **Guilherme Miranda**, estudante de **Sistemas de Informação**. Comunicativo, dedicado e organizado, tenho grande interesse por tecnologia e inovação. Possuo **nível avançado de inglês** e estou sempre em busca de aprendizado.
+### Sobre mim🥇
+Olá! Sou **Guilherme Miranda**, estudante de **Sistemas de Informação**. Estou sempre buscando melhorar e tenho grande interesse por tecnologia e inovação. Possuo **nível avançado de inglês** e estou sempre em busca de aprendizado.
 ***
 📩 **Vamos nos conectar!** 
 
